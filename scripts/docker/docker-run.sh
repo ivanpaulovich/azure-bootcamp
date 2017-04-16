@@ -1,0 +1,1 @@
+docker run -t -p 8090:80 --name app app007
