@@ -5,4 +5,4 @@ COPY . .
  
 EXPOSE 80
  
-ENTRYPOINT ["dotnet", "meuapp.dll"]
+ENTRYPOINT ["dotnet", "source.dll"]
