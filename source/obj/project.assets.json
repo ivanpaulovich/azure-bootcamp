@@ -9588,16 +9588,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\gab-rajavalley\\source\\source.csproj",
+      "projectUniqueName": "D:\\git\\azure-bootcamp\\source\\source.csproj",
       "projectName": "source",
-      "projectPath": "D:\\git\\gab-rajavalley\\source\\source.csproj",
-      "outputPath": "D:\\git\\gab-rajavalley\\source\\obj\\",
+      "projectPath": "D:\\git\\azure-bootcamp\\source\\source.csproj",
+      "outputPath": "D:\\git\\azure-bootcamp\\source\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/source.dll": "D:\\git\\gab-rajavalley\\source\\bin\\placeholder\\netcoreapp1.1\\source.dll"
+        "lib/netcoreapp1.1/source.dll": "D:\\git\\azure-bootcamp\\source\\bin\\placeholder\\netcoreapp1.1\\source.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {

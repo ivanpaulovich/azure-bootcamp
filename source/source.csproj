@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+	<None Include="Dockerfile" CopyToPublishDirectory="Always" />
     <Folder Include="wwwroot\" />
   </ItemGroup>
 
