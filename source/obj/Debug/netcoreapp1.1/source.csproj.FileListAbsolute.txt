@@ -6,3 +6,11 @@ D:\git\azure-bootcamp\source\bin\Debug\netcoreapp1.1\source.pdb
 D:\git\azure-bootcamp\source\obj\Debug\netcoreapp1.1\source.AssemblyInfo.cs
 D:\git\azure-bootcamp\source\obj\Debug\netcoreapp1.1\source.dll
 D:\git\azure-bootcamp\source\obj\Debug\netcoreapp1.1\source.pdb
+D:\randomhacks\azure-bootcamp\source\bin\Debug\netcoreapp1.1\source.deps.json
+D:\randomhacks\azure-bootcamp\source\bin\Debug\netcoreapp1.1\source.runtimeconfig.json
+D:\randomhacks\azure-bootcamp\source\bin\Debug\netcoreapp1.1\source.runtimeconfig.dev.json
+D:\randomhacks\azure-bootcamp\source\bin\Debug\netcoreapp1.1\source.dll
+D:\randomhacks\azure-bootcamp\source\bin\Debug\netcoreapp1.1\source.pdb
+D:\randomhacks\azure-bootcamp\source\obj\Debug\netcoreapp1.1\source.AssemblyInfo.cs
+D:\randomhacks\azure-bootcamp\source\obj\Debug\netcoreapp1.1\source.dll
+D:\randomhacks\azure-bootcamp\source\obj\Debug\netcoreapp1.1\source.pdb

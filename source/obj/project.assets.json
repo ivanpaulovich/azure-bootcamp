@@ -4182,7 +4182,7 @@
       ]
     },
     "Microsoft.DiaSymReader.Native/1.4.1": {
-      "sha512": "oi9LCkKzSm7WgI0LsODDQUQdzldNdv9BU/QDoW9QMu+uN4baJXANkTWrjc2+aTqeftyhPXF1fn/m9jPo7mJ6FA==",
+      "sha512": "cgHw9OMhlBQ2+vqTyl+BUKhcL2aaVXBWAMoBkEmEM/fXiLkDq7c1NsaqQ9XSro4VWruB2cqyuMyPDVCgRHCzBw==",
       "type": "package",
       "path": "microsoft.diasymreader.native/1.4.1",
       "files": [
@@ -4563,7 +4563,7 @@
       ]
     },
     "Microsoft.NETCore.DotNetHost/1.1.0": {
-      "sha512": "1xk/a9uXjJWDQqXw8l4067aoNwUfugq4UVQQinlIM2W4posm0+wcW+bi3uKuyufsjG6KBhlCqKuFBqa5DXO6ug==",
+      "sha512": "yVyitID01rMEf6/BOAvnpRt8XJUCjUuIJtxd9oAoNgetT7ItgNQqsUHfFTKH7z5lVrG9vedX4WzhsDA9qowy3w==",
       "type": "package",
       "path": "microsoft.netcore.dotnethost/1.1.0",
       "files": [
@@ -4575,7 +4575,7 @@
       ]
     },
     "Microsoft.NETCore.DotNetHostPolicy/1.1.0": {
-      "sha512": "xa5FjffmB4QMfWIdwrW1cUKX6UD1VEePyzDcMqV8b/d9onZLJwIamPIRmDpN5lTlvdCnyUOI+5ZqZEjQIqSqxQ==",
+      "sha512": "45m40R6hWXY0qIlW0J/HX5RSgVXYxHMTM6Tm8LpcIwpAti6xPSlTfMdwTZI05Y0e7U/Cwp7KnFeV+DdnwB05rw==",
       "type": "package",
       "path": "microsoft.netcore.dotnethostpolicy/1.1.0",
       "files": [
@@ -4587,7 +4587,7 @@
       ]
     },
     "Microsoft.NETCore.DotNetHostResolver/1.1.0": {
-      "sha512": "xf7RRVJ4M1w1Hg9TTzTH4g+zFqGtu6uXBjpcyy+o5UYrRj44dtJkmlnc1OnoKQFU0pZ8i9C8eNbSeqq/p6n19w==",
+      "sha512": "BhINh9IY7L42Z1+H/83umMRDM3CB3LFBaiRZ0Tbik34ij+Z9t270miu21qERSpj2qit40mltDQUC2ZI3GwAHvw==",
       "type": "package",
       "path": "microsoft.netcore.dotnethostresolver/1.1.0",
       "files": [
@@ -4599,7 +4599,7 @@
       ]
     },
     "Microsoft.NETCore.Jit/1.1.1": {
-      "sha512": "TiG1ZTlStqkcrZzSIkyhbAr8PvTKzJQMS2awfzfU3wQd4oIxZr2Ausrf8ksHOfQC2EKgZd66r9tHsqASDWwKsg==",
+      "sha512": "9FY6NeKfd39tcQ58i5eFv7WXLfU5pTryGI1RBp0cLfFVF1f20uwpisfZQ9ORD3GaHo+EOFqtsSk+ZxmYlyF+rQ==",
       "type": "package",
       "path": "microsoft.netcore.jit/1.1.1",
       "files": [
@@ -4624,7 +4624,7 @@
       ]
     },
     "Microsoft.NETCore.Runtime.CoreCLR/1.1.1": {
-      "sha512": "uCLPGXIFJ49eIhwmBpuVQWQKzddeNYxmJpa0jjM6O5mJCeCN7Anz4aIT2nOxSh0U/mti1SR7f4elLnsU2j/bfQ==",
+      "sha512": "IJUvZ92bkR6M0v8jaDfNAS327uLD/fWK0lOYJounSAaOOlBhb4jS7ZECR9CrdNHKUNyh7fznVip9V6p6XrDHoQ==",
       "type": "package",
       "path": "microsoft.netcore.runtime.coreclr/1.1.1",
       "files": [
@@ -4661,7 +4661,7 @@
       ]
     },
     "Microsoft.VisualBasic/10.1.0": {
-      "sha512": "jgBfelga8QHZDTtUBtLNgcDPuXzaplCeXLqQcf5qB4jeVdPpX1AtnZnGeHbbi2tmp+P96hgI+KhXbUN567K60Q==",
+      "sha512": "4MlOQGm9zjgJw7pjUHYiN8WagY9GeSeqsfgrXx5xJx9yWfsw6+MOgguug+inp0KA09/la9I6MZUNVoxwXZQiNg==",
       "type": "package",
       "path": "microsoft.visualbasic/10.1.0",
       "files": [
@@ -5740,7 +5740,7 @@
       ]
     },
     "System.Diagnostics.Process/4.3.0": {
-      "sha512": "J0wOX07+QASQblsfxmIMFc9Iq7KTXYL3zs2G/Xc704Ylv3NpuVdo6gij6V3PGiptTxqsK0K7CdXenRvKUnkA2g==",
+      "sha512": "wwDvU4ttEQEudd+by6615a33Jrqso38yDfACow3FSPKnhSVQFncTwzxPHPTRUMbsXwl8GhXrOawe8zeLmtv1tg==",
       "type": "package",
       "path": "system.diagnostics.process/4.3.0",
       "files": [
@@ -6485,7 +6485,7 @@
       ]
     },
     "System.IO.MemoryMappedFiles/4.3.0": {
-      "sha512": "mz2JJFxCQLdMzXVOPyVibDKDKFZey66YHgQy8M1/vUCQzMSrbiXhpsyV04vSlBeqQUdM7wTL2WG+X3GZALKsIQ==",
+      "sha512": "nWE5ePYAuQf8lJCvWdviyDQoQtkegRVyFf3VAcrvmQ8MRGqLfpBd5/XYsHS1/lGerbHdhL62egtOjUETHt0ewg==",
       "type": "package",
       "path": "system.io.memorymappedfiles/4.3.0",
       "files": [
@@ -6525,7 +6525,7 @@
       ]
     },
     "System.IO.UnmanagedMemoryStream/4.3.0": {
-      "sha512": "tS89nK7pw8ebkkEfWujA05+ZReHKzz39W+bcX1okVR0GJCJuzPyfYfQZyiLSrjp121BB5J4uewZQiUTKri2pSQ==",
+      "sha512": "dU0m1uxGsLLKyp2xQvwBhdNPJ6llU8rjLNpzZ958YUUm4cK0l0n90gpMHbhpf1/hx7HLJFqLtpqjzQk7rdlXuw==",
       "type": "package",
       "path": "system.io.unmanagedmemorystream/4.3.0",
       "files": [
@@ -6714,7 +6714,7 @@
       ]
     },
     "System.Linq.Parallel/4.3.0": {
-      "sha512": "td7x21K8LalpjTWCzW/nQboQIFbq9i0r+PCyBBCdLWWnm4NBcdN18vpz/G9hCpUaCIfRL+ZxJNVTywlNlB1aLQ==",
+      "sha512": "tNoiWQER6ZkJZr5EG6PdjIV7EaJBmaUHtF3/g1EVFlqAOw3Y/3CAQKmt5yPeZ57kqwvzRMDq6uScuUcqhNDQAA==",
       "type": "package",
       "path": "system.linq.parallel/4.3.0",
       "files": [
@@ -7023,12 +7023,10 @@
       ]
     },
     "System.Net.Requests/4.3.0": {
-      "sha512": "OZNUuAs0kDXUzm7U5NZ1ojVta5YFZmgT2yxBqsQ7Eseq5Ahz88LInGRuNLJ/NP2F8W1q7tse1pKDthj3reF5QA==",
+      "sha512": "ic2j8KS4PR4+vGrmVadAgP/7Ju0dA1Qr8GNrqJXpxz4N05FwdkmsqWY7MT5d5rHHFnmj38qmOgVpzd3KwPhOUA==",
       "type": "package",
       "path": "system.net.requests/4.3.0",
       "files": [
-        "System.Net.Requests.4.3.0.nupkg.sha512",
-        "System.Net.Requests.nuspec",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7100,7 +7098,9 @@
         "ref/xamarinwatchos10/_._",
         "runtimes/unix/lib/netstandard1.3/System.Net.Requests.dll",
         "runtimes/win/lib/net46/_._",
-        "runtimes/win/lib/netstandard1.3/System.Net.Requests.dll"
+        "runtimes/win/lib/netstandard1.3/System.Net.Requests.dll",
+        "system.net.requests.4.3.0.nupkg.sha512",
+        "system.net.requests.nuspec"
       ]
     },
     "System.Net.Security/4.3.0": {
@@ -7180,12 +7180,10 @@
       ]
     },
     "System.Net.WebHeaderCollection/4.3.0": {
-      "sha512": "XZrXYG3c7QV/GpWeoaRC02rM6LH2JJetfVYskf35wdC/w2fFDFMphec4gmVH2dkll6abtW14u9Rt96pxd9YH2A==",
+      "sha512": "QVSj2XcpGVCimIf5dM1QpERCnZmjX6LIRH6EezZGGBKtbYbwMe+oWk9rUp3tC9QEpejGJIOcuQAjuGSkQArvpA==",
       "type": "package",
       "path": "system.net.webheadercollection/4.3.0",
       "files": [
-        "System.Net.WebHeaderCollection.4.3.0.nupkg.sha512",
-        "System.Net.WebHeaderCollection.nuspec",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7213,7 +7211,9 @@
         "ref/xamarinios10/_._",
         "ref/xamarinmac20/_._",
         "ref/xamarintvos10/_._",
-        "ref/xamarinwatchos10/_._"
+        "ref/xamarinwatchos10/_._",
+        "system.net.webheadercollection.4.3.0.nupkg.sha512",
+        "system.net.webheadercollection.nuspec"
       ]
     },
     "System.Net.WebSockets/4.3.0": {
@@ -7434,7 +7434,7 @@
       ]
     },
     "System.Reflection.DispatchProxy/4.3.0": {
-      "sha512": "vFln4g7zbLRyJbioExbMaW4BGuE2urDE2IKQk02x1y1uhQWntD+4rcYA4xQGJ19PlMdYPMWExHVQj3zKDODBFw==",
+      "sha512": "Z+EDcU9N0+9LVci1SNzt/ELtkDyB5PWYEyhA/W6qljZF9aqFRegZ99iFYE9wlAbR3P5h7oFEwA1DquIffUt5Qw==",
       "type": "package",
       "path": "system.reflection.dispatchproxy/4.3.0",
       "files": [
@@ -9109,7 +9109,7 @@
       ]
     },
     "System.Threading.Tasks.Dataflow/4.7.0": {
-      "sha512": "wcKLDI8tN5KpcMcTQwXfcLHrFdfINIxDBOZS3rE8QqOds/0fRhCkR+IEfQokxT7s/Yluqk+LG/ZqZdQmA/xgCw==",
+      "sha512": "/kTRXH/Czv7t5i5XyaMb40+ZMWhBY8fBgv/2pl4C/MHtldX84vvqc25Gs3/qYVWfdoWsy5z7zQJAKPVFAljyqg==",
       "type": "package",
       "path": "system.threading.tasks.dataflow/4.7.0",
       "files": [
@@ -9141,7 +9141,7 @@
       ]
     },
     "System.Threading.Tasks.Parallel/4.3.0": {
-      "sha512": "cbjBNZHf/vQCfcdhzx7knsiygoCKgxL8mZOeocXZn5gWhCdzHIq6bYNKWX0LAJCWYP7bds4yBK8p06YkP0oa0g==",
+      "sha512": "+zXjTy0ZHwrkXnYuB5KQIxX3tYmoMmP/ZZGdTC4cyaZmipUMFUCWbeFA7N/P7vv31mtWPaJpICRL6YOF9kqeXA==",
       "type": "package",
       "path": "system.threading.tasks.parallel/4.3.0",
       "files": [
@@ -9588,16 +9588,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\azure-bootcamp\\source\\source.csproj",
+      "projectUniqueName": "D:\\randomhacks\\azure-bootcamp\\source\\source.csproj",
       "projectName": "source",
-      "projectPath": "D:\\git\\azure-bootcamp\\source\\source.csproj",
-      "outputPath": "D:\\git\\azure-bootcamp\\source\\obj\\",
+      "projectPath": "D:\\randomhacks\\azure-bootcamp\\source\\source.csproj",
+      "outputPath": "D:\\randomhacks\\azure-bootcamp\\source\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/source.dll": "D:\\git\\azure-bootcamp\\source\\bin\\placeholder\\netcoreapp1.1\\source.dll"
+        "lib/netcoreapp1.1/source.dll": "D:\\randomhacks\\azure-bootcamp\\source\\bin\\placeholder\\netcoreapp1.1\\source.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {

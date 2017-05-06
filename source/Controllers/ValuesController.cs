@@ -13,7 +13,7 @@ namespace source.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "dotnet", "randomhacksbh" };
+            return new string[] { "dotnet", "randomhacksbh", "docker", "dotnet" };
         }
 
         // GET api/values/5
